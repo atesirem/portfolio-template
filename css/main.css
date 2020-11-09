@@ -122,7 +122,7 @@ body {
 
 .header {
   height: 100vh;
-  background-image: url("/dist/img/showcase.jpg");
+  background-image: url("/img/showcase.jpg");
   background-repeat: no-repeat;
   background-position-x: center;
   background-position-y: center;
@@ -342,7 +342,7 @@ footer .container {
 
 .header-about {
   height: 5.5rem;
-  background-image: url("/dist/img/showcase.jpg");
+  background-image: url("/img/showcase.jpg");
   background-repeat: no-repeat;
   background-position-x: 20%;
   background-position-y: 30%;
