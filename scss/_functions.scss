@@ -1,0 +1,8 @@
+@function transitionButton($color){
+    @if(lightness($color) > 50 ){
+        @return  $dark-color;
+
+    }@else{
+    @return $light-color;
+    }
+}
