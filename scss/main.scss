@@ -500,6 +500,7 @@ footer{
     .container{
         max-width: 1280px;
         padding: 0.5rem 1.5rem;
+        margin: 0 auto;
         margin-bottom: 1rem;
     }
     &-header{
@@ -602,6 +603,7 @@ footer{
     .container{
         max-width: 1280px;
         padding: 3rem 0rem;
+        margin: 0 auto;
         margin-bottom: 1rem;
     }
     &-header{
@@ -711,7 +713,7 @@ footer{
         .container{
             max-width: 1280px;
             padding: 1rem 5rem 5rem 5rem;
-                margin: auto;
+            margin:0  auto;
     overflow: hidden;
         }
         p{
@@ -999,8 +1001,10 @@ footer{
     }
 }
   .add{
-        h1{ padding: 4rem 0.1rem;
-            font-size: 3rem;
+        .container {
+            h1{ padding: 4rem 0.1rem;
+                font-size: 3rem;
+            }
         }
     
 }
